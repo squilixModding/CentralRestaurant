@@ -1,6 +1,6 @@
 # Central Restaurant YMAP MLO for FiveM
 
-![Screenshot](screenshots/screenshot1.jpg)
+![Screenshot](screenshots/screenshot1.png)
 
 ## Description
 
