@@ -1,6 +1,6 @@
 # Central Restaurant YMAP MLO for FiveM
 
-![Screenshot](screenshots/screenshot1.png)
+![Screenshot](screenshots/screenshot1.jpg)
 
 ## Description
 
@@ -34,5 +34,5 @@ This YMAP MLO (Map Editor) file adds a central restaurant to your FiveM server. 
 
 ## Screenshots
 
-![Screenshot 1](screenshots/screenshot2.jpg)
-![Screenshot 2](screenshots/screenshot3.jpg)
+![Screenshot 1](screenshots/screenshot2.png)
+![Screenshot 2](screenshots/screenshot3.png)
