@@ -27,7 +27,9 @@ This YMAP MLO (Map Editor) file adds a central restaurant to your FiveM server. 
 3. Place the downloaded resource in the `resources` directory of your FiveM server.
 
 4. Add the following line to your server's `server.cfg` file:
-
+```
+ensure CentralRestaurant
+```
 5. Restart your FiveM server.
 
 6. Enjoy the new central restaurant in your server!
